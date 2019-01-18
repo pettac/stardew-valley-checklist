@@ -8,12 +8,18 @@ import { NoopAnimationsModule, BrowserAnimationsModule } from '@angular/platform
 import { MaterialModule } from './material.module';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { TestComponent } from './components/test/test.component';
+import { ContactDetailsComponent } from './contacts/contact-details/contact-details.component';
+import { ContactListComponent } from './contacts/contact-list/contact-list.component';
+import { HttpModule } from '@angular/http';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
     AppComponent,
     LandingPageComponent,
-    TestComponent
+    TestComponent,
+    ContactDetailsComponent,
+    ContactListComponent
   ],
   imports: [
     BrowserModule,
@@ -21,7 +27,9 @@ import { TestComponent } from './components/test/test.component';
     NoopAnimationsModule,
     BrowserAnimationsModule,
     MaterialModule,
-    FlexLayoutModule
+    FlexLayoutModule,
+    FormsModule,
+    HttpModule
   ],
   providers: [],
   bootstrap: [AppComponent]
