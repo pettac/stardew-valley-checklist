@@ -1,0 +1,410 @@
+{
+  "item": [
+    {
+      "name": "Wild Horseradish",
+      "season": "Spring",
+      "location": "Foraging",
+      "bundle": "Spring Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Daffodil",
+      "season": "Spring",
+      "location": "Foraging, buy from Pierre at Flower Dance",
+      "bundle": "Spring Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Leek",
+      "season": "Spring",
+      "location": "Foraging",
+      "bundle": "Spring Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Dandelion",
+      "season": "Spring",
+      "location": "Foraging, buy from Pierre at Flower Dance",
+      "bundle": "Spring Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Grape",
+      "season": "Summer",
+      "location": "Foraging, Fall Farming",
+      "bundle": "Summer Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Spice Berry",
+      "season": "Summer",
+      "location": "Foraging",
+      "bundle": "Summer Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Sweet Pea",
+      "season": "Summer",
+      "location": "Foraging",
+      "bundle": "Summer Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Winter Root",
+      "season": "Winter",
+      "location": "Tilling soil or Artifact Spots in Winter, dropped by Blue Slimes on levels 41-79 of The Mines",
+      "bundle": "Winter Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Crystal Fruit",
+      "season": "Winter",
+      "location": "Winter Foraging, dropped by Dust Sprites on levels 41-79 of The Mines",
+      "bundle": "Winter Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Snow Yam",
+      "season": "Winter",
+      "location": "Tilling soil or Artifact Spots in Winter",
+      "bundle": "Winter Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Crocus",
+      "season": "Winter",
+      "location": "Foraging",
+      "bundle": "Winter Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Wood (99)",
+      "season": "Any",
+      "location": "Chopping Trees or branches with an axe",
+      "bundle": "Construction Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Wood (99)",
+      "season": "Any",
+      "location": "Chopping Trees or branches with an axe",
+      "bundle": "Construction Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Stone (99)",
+      "season": "Any",
+      "location": "Smashing stones with a pickaxe",
+      "bundle": "Construction Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Hardwood (10)",
+      "season": "Any",
+      "location": "Chopping Large Stumps or Large Logs with an upgraded Axe, smashing crates in The Mines",
+      "bundle": "Construction Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Coconut",
+      "season": "Any",
+      "location": "Desert Foraging",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Cactus Fruit",
+      "season": "Any",
+      "location": "Desert Foraging",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Cave Carrit",
+      "season": "Any",
+      "location": "The Mines, either smashing boxes or tilling soil",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Red Mushroom",
+      "season": "Any",
+      "location": "Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Purple Mushroom",
+      "season": "Any",
+      "location": "The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Maple Syrup",
+      "season": "Any",
+      "location": "Tapped Maple Tree",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Oak Resin",
+      "season": "Any",
+      "location": "Tapped Oak Tree",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Pine Tar",
+      "season": "Any",
+      "location": "Tapped Pine Tree",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Morel",
+      "season": "Any",
+      "location": "Foraging in the Secret Woods in Spring, The Farm Cave (mushroom option)",
+      "bundle": "Exotic Foraging Bundle",
+      "room": "Crafts"
+    },
+    {
+      "name": "Parsnip",
+      "season": "Spring",
+      "location": "Spring Crops",
+      "bundle": "Spring Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Green Bean",
+      "season": "Spring",
+      "location": "Spring Crops",
+      "bundle": "Spring Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Cauliflower",
+      "season": "Spring",
+      "location": "Spring Crops",
+      "bundle": "Spring Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Potato",
+      "season": "Spring",
+      "location": "Spring Crops",
+      "bundle": "Spring Crops",
+      "room": "Pantry"
+    },
+    {
+      "name": "Tomato",
+      "season": "Summer",
+      "location": "Summer Crops",
+      "bundle": "Summer Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Hot Pepper",
+      "season": "Summer",
+      "location": "Summer Crops",
+      "bundle": "Summer Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Blueberry",
+      "season": "Summer",
+      "location": "Summer Crops",
+      "bundle": "Summer Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Melon",
+      "season": "Summer",
+      "location": "Summer Crops",
+      "bundle": "Summer Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Corn",
+      "season": "Fall",
+      "location": "Summer/Fall Crops",
+      "bundle": "Fall Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Eggplant",
+      "season": "Fall",
+      "location": "Fall Crops",
+      "bundle": "Fall Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Pumpkin",
+      "season": "Fall",
+      "location": "Fall Crops",
+      "bundle": "Fall Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Yam",
+      "season": "Fall",
+      "location": "Fall Crops",
+      "bundle": "Fall Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Parsnip (5)",
+      "season": "Spring",
+      "location": "Gold Quality Spring Crops",
+      "bundle": "Quality Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Melon (5)",
+      "season": "Summer",
+      "location": "Gold Quality Summer Crops",
+      "bundle": "Quality Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Pumpkin (5)",
+      "season": "Fall",
+      "location": "Gold Quality Fall Crops",
+      "bundle": "Quality Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Corn (5)",
+      "season": "Summer/Fall",
+      "location": "Gold Quality Summer/Fall Crops",
+      "bundle": "Quality Crops Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Large Milk",
+      "season": "Any",
+      "location": "Cows",
+      "bundle": "Animal Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Large Egg (Brown)",
+      "season": "Any",
+      "location": "Chickens",
+      "bundle": "Animal Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Large Egg",
+      "season": "Any",
+      "location": "Chickens",
+      "bundle": "Animal Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Large Goat Milk",
+      "season": "Any",
+      "location": "Goats",
+      "bundle": "Animal Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Wool",
+      "season": "Any",
+      "location": "Sheep, Rabbits",
+      "bundle": "Animal Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Duck Egg",
+      "season": "Any",
+      "location": "Ducks",
+      "bundle": "Animal Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Truffle Oil",
+      "season": "Any",
+      "location": "Made from Truffles using an Oil Maker",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Cloth",
+      "season": "Any",
+      "location": "Loom, Recycling a Soggy Newspaper",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Goat Cheese",
+      "season": "Any",
+      "location": "Cheese Press",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Cheese",
+      "season": "Any",
+      "location": "Cheese Press",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Honey",
+      "season": "Any (Except Winter)",
+      "location": "Bee House",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Jelly",
+      "season": "Any",
+      "location": "Preserves jar",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Apple",
+      "season": "Fall",
+      "location": "Apple Trees during Fall",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Apricot",
+      "season": "Spring",
+      "location": "Apricot Trees during Spring",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Orange",
+      "season": "Summer",
+      "location": "Orange Trees during Summer",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Peach",
+      "season": "Summer",
+      "location": "Peach Trees during Summer",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Pomenranate",
+      "season": "Fall",
+      "location": "Pomenranate Trees during Fall",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    },
+    {
+      "name": "Cherry",
+      "season": "Spring",
+      "location": "Cherry Trees during Spring",
+      "bundle": "Artisan Bundle",
+      "room": "Pantry"
+    }
+  ]
+}

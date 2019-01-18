@@ -103,22 +103,22 @@
           "reward": "Charcoal Kiln (30)",
           "requirements": [{
               "name": "Wood (99)",
-              "season": "Any",
+              "season": "All",
               "location": "Chopping Trees or branches with an Axe"
             },
             {
               "name": "Wood (99)",
-              "season": "Any",
+              "season": "All",
               "location": "Chopping Trees or branches with an Axe"
             },
             {
               "name": "Stone (99)",
-              "season": "Any",
+              "season": "All",
               "location": "Smashing stones with a Pickaxe"
             },
             {
               "name": "Hardwood (10)",
-              "season": "Any",
+              "season": "All",
               "location": "Chopping Large Stumps or Large Logs with an upgraded Axe, smashing crates in The Mines"
             }
           ]
@@ -128,42 +128,42 @@
           "reward": "Autumn's Bounty (5)",
           "requirements": [{
               "name": "Coconut",
-              "season": "Any",
+              "season": "All",
               "location": "Desert Foraging"
             },
             {
               "name": "Cactus Fruit",
-              "season": "Any",
+              "season": "All",
               "location": "Desert Foraging"
             },
             {
               "name": "Cave Carrot",
-              "season": "Any",
+              "season": "All",
               "location": "The Mines, either smashing boxes or tilling soil"
             },
             {
               "name": "Red Mushroom",
-              "season": "Any",
+              "season": "All",
               "location": "Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree"
             },
             {
               "name": "Purple Mushroom",
-              "season": "Any",
+              "season": "All",
               "location": "The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall"
             },
             {
               "name": "Maple Syrup",
-              "season": "Any",
+              "season": "All",
               "location": "Tapped Maple Tree"
             },
             {
               "name": "Oak Resin",
-              "season": "Any",
+              "season": "All",
               "location": "Tapped Oak Tree"
             },
             {
               "name": "Pine Tar",
-              "season": "Any",
+              "season": "All",
               "location": "Tapped Pine Tree"
             },
             {
@@ -183,19 +183,23 @@
           "reward": "Speed Grow (20)",
           "requirements": [{
               "name": "Parsnip",
-              "season": "Spring"
+              "season": "Spring",
+              "location": "Spring Crops"
             },
             {
               "name": "Green Bean",
-              "season": "Spring"
+              "season": "Spring",
+              "location": "Spring Crops"
             },
             {
               "name": "Cauliflower",
-              "season": "Spring"
+              "season": "Spring",
+              "location": "Spring Crops"
             },
             {
               "name": "Potato",
-              "season": "Spring"
+              "season": "Spring",
+              "location": "Spring Crops"
             }
           ]
         },
@@ -204,19 +208,23 @@
           "reward": "Quality Sprinkler",
           "requirements": [{
               "name": "Tomato",
-              "season": "Summer"
+              "season": "Summer",
+              "location": "Summer Crops"
             },
             {
               "name": "Hot Pepper",
-              "season": "Summer"
+              "season": "Summer",
+              "location": "Summer Crops"
             },
             {
               "name": "Blueberry",
-              "season": "Summer"
+              "season": "Summer",
+              "location": "Summer Crops"
             },
             {
               "name": "Melon",
-              "season": "Summer"
+              "season": "Summer",
+              "location": "Summer Crops"
             }
           ]
         },
@@ -225,19 +233,23 @@
           "reward": "Bee House",
           "requirements": [{
               "name": "Corn",
-              "season": "Summer/Fall"
+              "season": "Summer/Fall",
+              "location": "Summer/Fall Crops"
             },
             {
               "name": "Eggplant",
-              "season": "Fall"
+              "season": "Fall",
+              "location": "Fall Crops"
             },
             {
               "name": "Pumpkin",
-              "season": "Fall"
+              "season": "Fall",
+              "location": "Fall Crops"
             },
             {
               "name": "Yam",
-              "season": "Fall"
+              "season": "Fall",
+              "location": "Fall Crops"
             }
           ]
         },
@@ -246,19 +258,23 @@
           "reward": "Preserves Jar",
           "requirements": [{
               "name": "Parsnip (5)",
-              "season": "Spring"
+              "season": "Spring",
+              "location": "Gold Quality Spring Crops"
             },
             {
               "name": "Melon (5)",
-              "season": "Summer"
+              "season": "Summer",
+              "location": "Gold Quality Summer Crops"
             },
             {
               "name": "Pumpkin (5)",
-              "season": "Spring"
+              "season": "Fall",
+              "location": "Gold Quality Fall Crops"
             },
             {
               "name": "Corn (5)",
-              "season": "Summer/Fall"
+              "season": "Summer/Fall",
+              "location": "Gold Quality Summer/Fall Crops"
             }
           ]
         },
@@ -267,27 +283,33 @@
           "reward": "Cheese Press",
           "requirements": [{
               "name": "Large Milk",
-              "season": "All"
+              "season": "All",
+              "location": "Cows"
             },
             {
               "name": "Large Egg (Brown)",
-              "season": "All"
+              "season": "All",
+              "location": "Chickens"
             },
             {
               "name": "Large Egg",
-              "season": "All"
+              "season": "All",
+              "location": "Chickens"
             },
             {
               "name": "Large Goat Milk",
-              "season": "All"
+              "season": "All",
+              "location": "Goats"
             },
             {
               "name": "Wool",
-              "season": "All"
+              "season": "All",
+              "location": "Sheep, Rabbits"
             },
             {
               "name": "Duck Egg",
-              "season": "All"
+              "season": "All",
+              "location": "Ducks"
             }
           ]
         },
@@ -296,32 +318,32 @@
           "reward": "Keg",
           "requirements": [{
               "name": "Truffle Oil ",
-              "season": "Any",
+              "season": "All",
               "location": "Made from Truffles using an Oil Maker"
             },
             {
               "name": "Cloth",
-              "season": "Any",
+              "season": "All",
               "location": "Loom, Recycling a Soggy Newspaper"
             },
             {
               "name": "Goat Cheese",
-              "season": "Any",
+              "season": "All",
               "location": "Cheese Press"
             },
             {
               "name": "Cheese",
-              "season": "Any",
+              "season": "All",
               "location": "Cheese Press"
             },
             {
               "name": "Honey",
-              "season": "Any",
+              "season": "All",
               "location": "Bee House"
             },
             {
               "name": "Jelly",
-              "season": "Any",
+              "season": "All",
               "location": "Preserves Jar"
             },
             {
@@ -362,39 +384,430 @@
       "name": "Fish Tank",
       "reward": "Glittering Boulder Removed",
       "bundles": [{
-        "name": "River Fish Bundle",
-        "reward": "Bait (30)",
-        "requirements": [{
-            "name": "Sunfish",
-            "season": "Spring/Summer",
-            "location": "Found in Rivers, 6am – 7pm, Spring, and Summer during sunny weather. Found in the Riverlands Farm or in the Wilderness Farm pond during rainy weather."
-          },
-          {
-            "name": "Catfish",
-            "season": "Spring/Fall",
-            "location": "Found in Rivers and Secret Woods Pond Anytime, Spring and Fall. Only when raining."
-          },
-          {
-            "name": "Shad",
-            "season": "Spring/Summer/Fall",
-            "location": "Found in Rivers, 9am – 2am, Spring, Summer, and Fall. Only when raining."
-          },
-          {
-            "name": "Tiger Trout",
-            "season": "Fall/Winter",
-            "location": "Found in Rivers, 6am – 7pm, Fall and Winter."
-          }
-        ]
-      }]
+          "name": "River Fish Bundle",
+          "reward": "Bait (30)",
+          "requirements": [{
+              "name": "Sunfish",
+              "season": "Spring/Summer",
+              "location": "Found in Rivers, 6am – 7pm, Spring, and Summer during sunny weather. Found in the Riverlands Farm or in the Wilderness Farm pond during rainy weather."
+            },
+            {
+              "name": "Catfish",
+              "season": "Spring/Fall",
+              "location": "Found in Rivers and Secret Woods Pond Anytime, Spring and Fall. Only when raining."
+            },
+            {
+              "name": "Shad",
+              "season": "Spring/Summer/Fall",
+              "location": "Found in Rivers, 9am – 2am, Spring, Summer, and Fall. Only when raining."
+            },
+            {
+              "name": "Tiger Trout",
+              "season": "Fall/Winter",
+              "location": "Found in Rivers, 6am – 7pm, Fall and Winter."
+            }
+          ]
+        },
+        {
+          "name": "Lake Fish Bundle",
+          "reward": "Dressed Spinner",
+          "requirements": [{
+              "name": "Largemouth Bass",
+              "season": "All",
+              "location": "Found in the Mountain lake, 6am – 7pm, All Seasons."
+            },
+            {
+              "name": "Carp",
+              "season": "All",
+              "location": "Found in the Mountain lake, Anytime, All Seasons. Found in Cindersap Forest pond, Anytime, Spring, Summer, or Fall. Found in Secret Woods or Sewer, Anytime, All Seasons."
+            },
+            {
+              "name": "Bullhead",
+              "season": "All",
+              "location": "Found in the Mountain Lake, Anytime, All Seasons."
+            },
+            {
+              "name": "Sturgeon",
+              "season": "Summer/Winter",
+              "location": "Found in the Mountain Lake, 6am – 7pm, Summer and Winter."
+            }
+          ]
+        },
+        {
+          "name": "Ocean Fish Bundle",
+          "reward": "Warp Totem: Beach (5)",
+          "requirements": [{
+              "name": "Sardine",
+              "season": "Spring/Fall/Winter",
+              "location": "Found in the Ocean, 6am – 7pm, Spring, Fall, and Winter."
+            },
+            {
+              "name": "Tuna",
+              "season": "Summer/Winter",
+              "location": "Found in the Ocean, 6am – 7pm, Summer and Winter."
+            },
+            {
+              "name": "Red Snapper",
+              "season": "Summer/Fall",
+              "location": "Found in the Ocean, 6am – 7pm, Summer and Fall. Only when raining."
+            },
+            {
+              "name": "Tilapia",
+              "season": "Summer/Fall",
+              "location": "Found in the Ocean, 6am – 2pm, Summer and Fall."
+            }
+          ]
+        },
+        {
+          "name": "Night Fishing Bundle",
+          "reward": "Small Glow Ring",
+          "requirements": [{
+              "name": "Walleye",
+              "season": "Fall",
+              "location": "Found in Rivers, Lakes and Forest Pond, 12pm – 2am, Fall. Only when raining."
+            },
+            {
+              "name": "Bream",
+              "season": "All",
+              "location": "Found in Rivers, 6pm – 2am, All Seasons."
+            },
+            {
+              "name": "Eel",
+              "season": "Spring/Fall",
+              "location": "Found in the Ocean, 4pm – 2am, Spring or Fall. Only when raining."
+            }
+          ]
+        },
+        {
+          "name": "Crab Pot Bundle",
+          "reward": "Crab Pot (3)",
+          "requirements": [{
+              "name": "Lobster",
+              "season": "All",
+              "location": "Crab Pots"
+            },
+            {
+              "name": "Crayfish",
+              "season": "All",
+              "location": "Crab Pots"
+            },
+            {
+              "name": "Crab",
+              "season": "All",
+              "location": "Crab Pots, drops from Rock Crabs or Lava Crabs in The Mines"
+            },
+            {
+              "name": "Cockle",
+              "season": "All",
+              "location": "Crab Pots, Beach Foraging"
+            },
+            {
+              "name": "Mussel",
+              "season": "All",
+              "location": "Crab Pots, Beach Foraging"
+            },
+            {
+              "name": "Shrimp",
+              "season": "All",
+              "location": "Crab Pots"
+            },
+            {
+              "name": "Snail",
+              "season": "All",
+              "location": "Crab Pots"
+            },
+            {
+              "name": "Periwinkle",
+              "season": "All",
+              "location": "Crab Pots"
+            },
+            {
+              "name": "Oyster",
+              "season": "All",
+              "location": "Crab Pots, Beach Foraging"
+            },
+            {
+              "name": "Clam",
+              "season": "All",
+              "location": "Crab Pots, Beach Foraging"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Fish Bundle",
+          "reward": "Dish O' The Sea",
+          "requirements": [{
+              "name": "Pufferfish",
+              "season": "Summer",
+              "location": "Found in the Ocean, 12pm – 4pm, Summer during sunny weather."
+            },
+            {
+              "name": "Ghostfish",
+              "season": "All",
+              "location": "Found in ponds in The Mines levels 20 and 60, Anytime, All Seasons. May also be dropped by Ghosts."
+            },
+            {
+              "name": "Sandfish",
+              "season": "All",
+              "location": "Found in the pond in The Desert, 6am – 8pm, All Seasons."
+            },
+            {
+              "name": "Woodskip",
+              "season": "All",
+              "location": "Found in the Secret Woods, Anytime, All Seasons."
+            }
+          ]
+        }
+      ]
     },
     {
-      "name": "Boiler Room"
+      "name": "Boiler Room",
+      "reward": "Minecarts Repaired",
+      "bundles": [
+        {
+          "name": "Blacksmith's Bundle",
+          "reward": "Furnace",
+          "requirements": [{
+              "name": "Copper Bar",
+              "season": "All",
+              "location": "Smelting Copper Ore in the Furnace"
+            },
+            {
+              "name": "Iron Bar",
+              "season": "All",
+              "location": "Smelting Iron Ore in the Furnace, Crafting the \"Transmute (Fe)\" recipe"
+            },
+            {
+              "name": "Gold Bar",
+              "season": "All",
+              "location": "Smelting Gold Ore in the Furnace, Crafting the \"Transmute (Au)\" recipe"
+            }
+          ]
+        },
+        {
+          "name": "Geologists's Bundle",
+          "reward": "Omni Geode (5)",
+          "requirements": [{
+              "name": "Quartz",
+              "season": "All",
+              "location": "Foraging on all levels of The Mines"
+            },
+            {
+              "name": "Earth Crystal",
+              "season": "All",
+              "location": "Foraging on Levels 1-39 of The Mines, Geodes, Omni Geodes, drop from Duggies in the Mines (floors 1-29)"
+            },
+            {
+              "name": "Frozen Tear",
+              "season": "All",
+              "location": "Foraging on Levels 40-79 of The Mines, Frozen Geodes, Omni Geodes, drop from Dust Sprites in the Mines (floors 40-80)"
+            },
+            {
+              "name": "Fire Quartz",
+              "season": "All",
+              "location": "Foraging on Levels 80-120 of The Mines, Magma Geodes, Omni Geodes"
+            }
+          ]
+        },
+        {
+          "name": "Adventurer's Bundle",
+          "reward": "Small Magnet Ring",
+          "requirements": [{
+              "name": "Slime (99)",
+              "season": "All",
+              "location": "Dropped by Slimes"
+            },
+            {
+              "name": "Bat Wing (10)",
+              "season": "All",
+              "location": "Dropped by Bats in The Mines"
+            },
+            {
+              "name": "Solar Essence",
+              "season": "All",
+              "location": "Dropped by Ghosts, Squid Kids, or Metal Heads in The Mines, dropped by Mummies in the Skull Cavern"
+            },
+            {
+              "name": "Void Essence",
+              "season": "All",
+              "location": "Dropped by Shadow Brutes in The Mines or Serpents in the Skull Cavern"
+            }
+          ]
+        }
+      ]
     },
     {
-      "name": "Bulletin Board"
+      "name": "Bulletin Board",
+      "reward": "Friendship",
+      "bundles": [
+        {
+          "name": "Chef's Bundle",
+          "reward": "Pink Cake (3)",
+          "requirements": [
+            {
+              "name": "Maple Syrup",
+              "season": "All",
+              "location": "Tapped Maple Tree"
+            },
+            {
+              "name": "Fiddlehead Fern",
+              "season": "Summer",
+              "location": "Summer Foraging int he Secret Woods"
+            },
+            {
+              "name": "Truffle",
+              "season": "All",
+              "location": "Pigs"
+            },
+            {
+              "name": "Poppy",
+              "season": "Summer",
+              "location": "Summer Crops"
+            },
+            {
+              "name": "Maki Roll",
+              "season": "All",
+              "location": "Cooking"
+            },
+            {
+              "name": "Fried Egg",
+              "season": "All",
+              "location": "Cooking"
+            }
+          ]
+        },
+        {
+          "name": "Dye Bundle",
+          "reward": "Seed Maker",
+          "requirements": [
+            {
+              "name": "Red Mushroom",
+              "season": "All",
+              "location": "Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree"
+            },
+            {
+              "name": "Sea Urchin",
+              "season": "All",
+              "location": "Beach Foraging, after using 300 wood to fix the bridge to the right side of the beach"
+            },
+            {
+              "name": "Sunflower",
+              "season": "Summer/Fall",
+              "location": "Summer/Fall Crops"
+            },
+            {
+              "name": "Duck Feather",
+              "season": "All",
+              "location": "Ducks"
+            },
+            {
+              "name": "Aquamarine",
+              "season": "All",
+              "location": "Aquamarine Nodes and boxes in The Mines"
+            },
+            {
+              "name": "Red Cabbage",
+              "season": "Summer",
+              "location": "Summer Crops (Red Cabbage Seeds are available at Pierre's General Store in year 2+)"
+            }
+          ]
+        },
+        {
+          "name": "Field Research Bundle",
+          "reward": "Recycling Machine",
+          "requirements": [
+            {
+              "name": "Purple Mushroom",
+              "season": "All",
+              "location": "The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall"
+            },
+            {
+              "name": "Nautilus Shell",
+              "season": "Winter",
+              "location": "Winter Beach Foraging"
+            },
+            {
+              "name": "Chub",
+              "season": "All",
+              "location": "Can be found in the mountain lake and river during all seasons, any time."
+            },
+            {
+              "name": "Frozen Geode",
+              "season": "All",
+              "location": "The Mines Levels 40-79"
+            }
+          ]
+        },
+        {
+          "name": "Fodder Bundle",
+          "reward": "Heater",
+          "requirements": [
+            {
+              "name": "Wheat (10)",
+              "season": "Summer/Fall",
+              "location": "Summer/Fall Crops"
+            },
+            {
+              "name": "Hay (10)",
+              "season": "All",
+              "location": "Purchase at Marnie's Ranch, or harvest grass with the Scythe once you have a Silo, and withdraw the hay from the Hay Hopper once you have a Coop or Barn"
+            },
+            {
+              "name": "Apple (3)",
+              "season": "Fall",
+              "location": "Apple Trees during Fall, The Farm Cave (fruit bat option)"
+            }
+          ]
+        },
+        {
+          "name": "Dye Bundle",
+          "reward": "Seed Maker",
+          "requirements": [
+            {
+              "name": "Oak Resin",
+              "season": "All",
+              "location": "Tapped Oak Tree"
+            },
+            {
+              "name": "Wine",
+              "season": "All",
+              "location": "Keg"
+            },
+            {
+              "name": "Rabbit's Foot",
+              "season": "All",
+              "location": "Rabbits, Serpent drop in Skull Cavern (0.8%)"
+            },
+            {
+              "name": "Pomegranate",
+              "season": "Fall",
+              "location": "Pomegranate Trees during Fall, The Farm Cave (fruit bat option)"
+            }
+          ]
+        }
+      ]
     },
     {
-      "name": "Vault"
+      "name": "Vault",
+      "reward": "Buss Repair",
+      "bundles": [
+        {
+          "name": "2,500 Bundle",
+          "reward": "Chocolate Cake (3)"
+        },
+        {
+          "name": "5,000 Bundle",
+          "reward": "Quality Fertilizer (30)"
+        },
+        {
+          "name": "10,000 Bundle",
+          "reward": "Lightning Rod"
+        },
+        {
+          "name": "25,000 Bundle",
+          "reward": "Crystalarium"
+        }
+      ]
     }
   ]
 }
