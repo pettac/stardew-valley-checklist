@@ -1,0 +1,400 @@
+{
+  "rooms": [
+    {
+      "name": "Crafts",
+      "reward": "Bridge Repair",
+      "bundles": [{
+          "name": "Spring Foraging Bundle",
+          "reward": "Spring Seeds (30)",
+          "requirements": [{
+              "name": "Wild Horseradish",
+              "season": "Spring",
+              "location": "Foraging"
+            },
+            {
+              "name": "Daffodil",
+              "season": "Spring",
+              "location": "Foraging, buy from Pierre at Flower Dance"
+            },
+            {
+              "name": "Leek",
+              "season": "Spring",
+              "location": "Foraging"
+            },
+            {
+              "name": "Dandelion",
+              "season": "Spring",
+              "location": "Foraging, buy from Pierre at Flower Dance"
+            }
+          ]
+        },
+        {
+          "name": "Summer Foraging Bundle",
+          "reward": "Summer Seeds (30)",
+          "requirements": [{
+              "name": "Grape",
+              "season": "Summer",
+              "location": "Foraging, Fall Farming"
+            },
+            {
+              "name": "Spice Berry",
+              "season": "Summer",
+              "location": "Foraging"
+            },
+            {
+              "name": "Sweet Pea",
+              "season": "Summer",
+              "location": "Foraging"
+            }
+          ]
+        },
+        {
+          "name": "Fall Foraging Bundle",
+          "reward": "Fall Seeds (30)",
+          "requirements": [{
+              "name": "Common Mushroom",
+              "season": "Fall",
+              "location": "Fall Foraging, Spring & Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree"
+            },
+            {
+              "name": "Wild Plum",
+              "season": "Fall",
+              "location": "Fall Foraging"
+            },
+            {
+              "name": "Hazelnut",
+              "season": "Fall",
+              "location": "Fall Foraging"
+            },
+            {
+              "name": "Blackberry",
+              "season": "Fall",
+              "location": "Fall Foraging"
+            }
+          ]
+        },
+        {
+          "name": "Winter Foraging Bundle",
+          "reward": "Winter Seeds (30)",
+          "requirements": [{
+              "name": "Winter Root",
+              "season": "Winter",
+              "location": "Tilling soil or Artifact Spots in Winter, dropped by Blue Slimes on levels 41-79 of The Mines"
+            },
+            {
+              "name": "Crystal Fruit",
+              "season": "Winter",
+              "location": "Winter Foraging, dropped by Dust Sprites on levels 41-79 of The Mines"
+            },
+            {
+              "name": "Snow Yam",
+              "season": "Winter",
+              "location": "Tilling soil or Artifact Spots in Winter"
+            },
+            {
+              "name": "Crocus",
+              "season": "Fall",
+              "location": "Winter Foraging"
+            }
+          ]
+        },
+        {
+          "name": "Construction Bundle",
+          "reward": "Charcoal Kiln (30)",
+          "requirements": [{
+              "name": "Wood (99)",
+              "season": "Any",
+              "location": "Chopping Trees or branches with an Axe"
+            },
+            {
+              "name": "Wood (99)",
+              "season": "Any",
+              "location": "Chopping Trees or branches with an Axe"
+            },
+            {
+              "name": "Stone (99)",
+              "season": "Any",
+              "location": "Smashing stones with a Pickaxe"
+            },
+            {
+              "name": "Hardwood (10)",
+              "season": "Any",
+              "location": "Chopping Large Stumps or Large Logs with an upgraded Axe, smashing crates in The Mines"
+            }
+          ]
+        },
+        {
+          "name": "Exotic Foraging Bundle",
+          "reward": "Autumn's Bounty (5)",
+          "requirements": [{
+              "name": "Coconut",
+              "season": "Any",
+              "location": "Desert Foraging"
+            },
+            {
+              "name": "Cactus Fruit",
+              "season": "Any",
+              "location": "Desert Foraging"
+            },
+            {
+              "name": "Cave Carrot",
+              "season": "Any",
+              "location": "The Mines, either smashing boxes or tilling soil"
+            },
+            {
+              "name": "Red Mushroom",
+              "season": "Any",
+              "location": "Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree"
+            },
+            {
+              "name": "Purple Mushroom",
+              "season": "Any",
+              "location": "The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall"
+            },
+            {
+              "name": "Maple Syrup",
+              "season": "Any",
+              "location": "Tapped Maple Tree"
+            },
+            {
+              "name": "Oak Resin",
+              "season": "Any",
+              "location": "Tapped Oak Tree"
+            },
+            {
+              "name": "Pine Tar",
+              "season": "Any",
+              "location": "Tapped Pine Tree"
+            },
+            {
+              "name": "Morel",
+              "season": "Fall",
+              "location": "Foraging in the Secret Woods in Spring, The Farm Cave (mushroom option)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pantry",
+      "reward": "Greenhouse",
+      "bundles": [{
+          "name": "Spring Crops Bundle",
+          "reward": "Speed Grow (20)",
+          "requirements": [{
+              "name": "Parsnip",
+              "season": "Spring"
+            },
+            {
+              "name": "Green Bean",
+              "season": "Spring"
+            },
+            {
+              "name": "Cauliflower",
+              "season": "Spring"
+            },
+            {
+              "name": "Potato",
+              "season": "Spring"
+            }
+          ]
+        },
+        {
+          "name": "Summer Crops Bundle",
+          "reward": "Quality Sprinkler",
+          "requirements": [{
+              "name": "Tomato",
+              "season": "Summer"
+            },
+            {
+              "name": "Hot Pepper",
+              "season": "Summer"
+            },
+            {
+              "name": "Blueberry",
+              "season": "Summer"
+            },
+            {
+              "name": "Melon",
+              "season": "Summer"
+            }
+          ]
+        },
+        {
+          "name": "Fall Crops Bundle",
+          "reward": "Bee House",
+          "requirements": [{
+              "name": "Corn",
+              "season": "Summer/Fall"
+            },
+            {
+              "name": "Eggplant",
+              "season": "Fall"
+            },
+            {
+              "name": "Pumpkin",
+              "season": "Fall"
+            },
+            {
+              "name": "Yam",
+              "season": "Fall"
+            }
+          ]
+        },
+        {
+          "name": "Quality Crops Bundle",
+          "reward": "Preserves Jar",
+          "requirements": [{
+              "name": "Parsnip (5)",
+              "season": "Spring"
+            },
+            {
+              "name": "Melon (5)",
+              "season": "Summer"
+            },
+            {
+              "name": "Pumpkin (5)",
+              "season": "Spring"
+            },
+            {
+              "name": "Corn (5)",
+              "season": "Summer/Fall"
+            }
+          ]
+        },
+        {
+          "name": "Animal Bundle",
+          "reward": "Cheese Press",
+          "requirements": [{
+              "name": "Large Milk",
+              "season": "All"
+            },
+            {
+              "name": "Large Egg (Brown)",
+              "season": "All"
+            },
+            {
+              "name": "Large Egg",
+              "season": "All"
+            },
+            {
+              "name": "Large Goat Milk",
+              "season": "All"
+            },
+            {
+              "name": "Wool",
+              "season": "All"
+            },
+            {
+              "name": "Duck Egg",
+              "season": "All"
+            }
+          ]
+        },
+        {
+          "name": "Artisan Bundle",
+          "reward": "Keg",
+          "requirements": [{
+              "name": "Truffle Oil ",
+              "season": "Any",
+              "location": "Made from Truffles using an Oil Maker"
+            },
+            {
+              "name": "Cloth",
+              "season": "Any",
+              "location": "Loom, Recycling a Soggy Newspaper"
+            },
+            {
+              "name": "Goat Cheese",
+              "season": "Any",
+              "location": "Cheese Press"
+            },
+            {
+              "name": "Cheese",
+              "season": "Any",
+              "location": "Cheese Press"
+            },
+            {
+              "name": "Honey",
+              "season": "Any",
+              "location": "Bee House"
+            },
+            {
+              "name": "Jelly",
+              "season": "Any",
+              "location": "Preserves Jar"
+            },
+            {
+              "name": "Apple",
+              "season": "Fall",
+              "location": "Apple Trees during Fall"
+            },
+            {
+              "name": "Apricot",
+              "season": "Spring",
+              "location": "Apricot Trees during Spring"
+            },
+            {
+              "name": "Orange",
+              "season": "Summer",
+              "location": "Orange Trees during Summer"
+            },
+            {
+              "name": "Peach",
+              "season": "Spring",
+              "location": "Peach Trees during Summer"
+            },
+            {
+              "name": "Pomegranate",
+              "season": "Fall",
+              "location": "Pomegranate Trees during Fall"
+            },
+            {
+              "name": "Cherry",
+              "season": "Spring",
+              "location": "Cherry Trees during Spring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fish Tank",
+      "reward": "Glittering Boulder Removed",
+      "bundles": [{
+        "name": "River Fish Bundle",
+        "reward": "Bait (30)",
+        "requirements": [{
+            "name": "Sunfish",
+            "season": "Spring/Summer",
+            "location": "Found in Rivers, 6am – 7pm, Spring, and Summer during sunny weather. Found in the Riverlands Farm or in the Wilderness Farm pond during rainy weather."
+          },
+          {
+            "name": "Catfish",
+            "season": "Spring/Fall",
+            "location": "Found in Rivers and Secret Woods Pond Anytime, Spring and Fall. Only when raining."
+          },
+          {
+            "name": "Shad",
+            "season": "Spring/Summer/Fall",
+            "location": "Found in Rivers, 9am – 2am, Spring, Summer, and Fall. Only when raining."
+          },
+          {
+            "name": "Tiger Trout",
+            "season": "Fall/Winter",
+            "location": "Found in Rivers, 6am – 7pm, Fall and Winter."
+          }
+        ]
+      }]
+    },
+    {
+      "name": "Boiler Room"
+    },
+    {
+      "name": "Bulletin Board"
+    },
+    {
+      "name": "Vault"
+    }
+  ]
+}
